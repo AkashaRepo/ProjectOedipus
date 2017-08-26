@@ -1,33 +1,33 @@
-* Dramatis personæ *****
+* Dramatis personæ
 A list of characters appearing in the play.
 
 In keeping with Greek tradition, this play will have a minimum of characters and actors. There will be four characters played by three character actors, and six members of the Chorus which will provide comentary and act as extras in some scenes.
 
-** Speaking Characters ****
+** Speaking Characters
 
-*** TODO Hero of the past (in the future) ***
+*** TODO Hero of the past (in the future)
 
-*** TODO Heroine of the future (in the past) ***
+*** TODO Heroine of the future (in the past)
 
-*** TODO Demon Ex Machina (in the future) ***
+*** TODO Demon Ex Machina (in the future)
 
-*** TODO Deus Ex Machina (in the past) ***
+*** TODO Deus Ex Machina (in the past)
 
 
-** Chorus ****
+** Chorus
 
-*** TODO Viral Chorus ***
+*** TODO Viral Chorus
 
-**** TODO Virus one **
+**** TODO Virus one
 
-**** TODO Virus two **
+**** TODO Virus two
 
-**** TODO Virus three **
+**** TODO Virus three
 
-*** TODO Anti-viral Chorus ***
+*** TODO Anti-viral Chorus
 
-**** TODO Anti-virus one **
+**** TODO Anti-virus one
 
-**** TODO Anti-virus two **
+**** TODO Anti-virus two
 
-**** TODO Anti-vurus three **
+**** TODO Anti-vurus three
