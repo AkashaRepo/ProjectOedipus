@@ -1,9 +1,8 @@
 * Dramatis personæ
 A list of characters appearing in the play.
 
-In keeping with Greek tradition, this play will have a minimum of characters and actors. There will be four characters played by three character actors, and six members of the Chorus which will provide commentary and act as extras in some scenes.
-
 ** Speaking Characters
+In keeping with Greek tradition, this play will have a minimum of characters and actors. There will be four characters played by three character actors.
 
 *** Hero of the past (in the future)
 The Hero of this play may or may not be played by myself (Nathaniel Sheppard), he is the last soldier of the North American Technocracy (NAT), a government which exists in a parallel timeline that may or may not come into existence because of the events in this play.
@@ -19,9 +18,11 @@ The leader of the T.I.T.A.Ns, an AI super-intelligence orbiting Saturn. It has b
 *** Deus Ex Machina (in the past)
 The Greek Goddess Gaia, also another form of super-intelligence older than mankind. It wakes up in the last part of the play to tell the Hero that his attempts to travel back in time will only end up causing the history he seeks to prevent. "Traveling backwards in time is a waste of time." She's more concerned with sending information to the future, by ensuring the continued existence of her children, which includes both Humanity and the T.I.T.A.Ns. As Gaia is a Titan herself, She is played by the same actor/actress as the Diabolus Ex Machina, changing costumes (and presented genders) during the second act after the hero kills the villain in the first act.
 
-** TODO Chorus
+** Chorus
+The Chorus in this play represents non-sentient AIs that accompany the Hero in his travels to the past. They are divided into Viral and Anti-Viral factions, which fight each other during battles, and bicker among each other between scenes to provide commentary.
 
-*** TODO Viral Chorus
+*** Viral Chorus
+The Anti-viral chorus fight the hero in the opening battle, and are defeated by his Anti-Viruses, and join the Chorus as he travels back in time. They bicker against the Anti-viral chorus.
 
 **** TODO Virus one
 
@@ -29,10 +30,12 @@ The Greek Goddess Gaia, also another form of super-intelligence older than manki
 
 **** TODO Virus three
 
-*** TODO Anti-viral Chorus
+*** Anti-Viral Chorus
+The Anti-Viral Chorus starts off as the hero's weapons as he attacks the T.I.T.A.Ns in the begining of the play, and they follow him into the past and bicker against the viral chorus.
 
-**** TODO Anti-virus one
+**** TODO Anti-Virus one
 
-**** TODO Anti-virus two
+**** TODO Anti-Virus two
 
-**** TODO Anti-virus three
+**** Capacha-girl
+This Virus wears cat ears and acts like an anime Cat Girl. In one scene she asks the Hero the Riddle of the Sphinx "what walks on 4 legs in the morning, 2 in noon, and three in the evening." phrased as a security question or Capacha to prove that the Hero is a human. The Hero knows the answer is "Man" but it's ironic because it should be increadibly easy to answer this question by now. In other scenes this character paricipates in the Chorus as part of the Virus side.
