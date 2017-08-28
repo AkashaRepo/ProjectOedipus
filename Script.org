@@ -1,8 +1,8 @@
-* Project Oedipus (working title)
+* TODO Project Oedipus (working title)
 A play in three parts by Nathaniel Sheppard.
 
 ** TODO Act one, Spacetime and Cyberspace
 
-** TODO Act two, The caves of time
+** TODO Act two, Into the caves of time
 
 ** TODO Act three, Mother knows best
