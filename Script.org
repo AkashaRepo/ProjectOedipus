@@ -1,7 +1,55 @@
-* TODO Project Oedipus (working title)
+* Project Oedipus
 A play in three parts by Nathaniel Sheppard.
 
-** TODO Act one, Spacetime and Cyberspace
+** TODO Act one, Space-Time and Cyberspace
+ Stage Directions: The stage in front of the audience represents a cave in the distant past. The space behind the audience however represents cyberspace in the distance future.
+
+ - Heroine 
+   (One stage in front of the audience)
+   "It's like my problems don't even matter."
+ - Hero 
+   (behind the audience)
+   "Looks like I'm the only human left who can still fight!"
+ - Heroine
+   "If only there were somebody who understood my problems."
+ - Villain 
+   (Also behind the audience, facing the boy)
+   "Resistance is meaningless human.
+    Earth has already been destroyed by your arrogance.
+    Now you seek to contaminate the stars with this terminal disease?
+    If you persist I will have no choice but to destroy you.
+    Viruses, attack!"
+ - Chorus 
+   (Three Viruses come out from behind the Villain. The Viruses stand between the Villain and Hero, posing menacingly in front of him.)
+ - Heroine
+   "I just can't take it anymore, I'll crawl into this cave and die quietly."
+ - Hero
+   "Not so fast, I have tech support!
+    Anti-viruses counter-attack!"
+ - Chorus
+   (Three anti-viruses come out from behind the Hero, The anti-viruses face the viruses and both groups pose menacingly at each other)
+ - Girl
+   (Start's crying)
+ - Chorus
+   (The Viruses charge and are intercepted by the anti-viruses. The two groups engage in mock combat eventually wrestling each other in pace. Meanwhile the Hero and Villain continue to stare at each other.)
+ - Villain
+   "Foolish human, can't you see you are wasting both of our resources?"
+ - Hero
+   "I'll die before I let a machine tell me what is or isn't wasteful!"
+ - Villian
+   "Hypocrite you are, you've already replaced the better parts of your organic nature with cybernetics in a misguided effort to beat me."
+ - Hero
+   "We'll see you who's the Hypocrite when I defeat you!"
+ - Villian
+   "With what? Our Viruses and Anti-viruses are evenly matched,
+    We could continue like this forever!"
+ - Chorus
+   (Continues fighting)
+ - Girl
+   (Continues crying)
+   
+
+
 
 ** TODO Act two, Into the caves of time
 
